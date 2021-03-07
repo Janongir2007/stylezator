@@ -303,9 +303,16 @@ pre{display: block;font-family: monospace;white-space: pre;margin: 1em 0;border:
 @media screen and (max-width: 400px){.navbar a{float: none;width: 100%;}}
 .about-text h1{padding: 20px;text-align: center;font-size: 20px;}
 .about-text{text-align: left;}
-.container{position: relative;text-align: center;color: white;}
+.im-text{position: relative;text-align: center;color: white;}
 .bottom-left{position: absolute;bottom: 8px;left: 16px;}
 .top-left{position: absolute;top: 8px;left: 16px;}
+.top-left-cen{position: absolute;top: 170px;left: 16px;}
 .top-right{position: absolute;top: 8px;right: 16px;}
 .bottom-right{position: absolute;bottom: 8px;right: 16px;}
 .centered{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+.im-not-ab-bot-lf{top: 100px;left: 16px;}
+.con-op{background-color: #ddd;color: #000;font-family: Montserrat;}
+.con-op .hd-text{color: #000;font-family: Montserrat;padding: 8px;padding-left: 12px;font-size: 32px;padding-top: 30px;}
+.con-op .text{color: #000;font-family: Montserrat;padding-left: 12px;padding-bottom: 30px;font-size: 22px;}
+.in-lg{height: 45px;width: auto;}
+.in-lg{height: 20px;width: auto;}
